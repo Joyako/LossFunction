@@ -10,6 +10,15 @@ These functions addresses deep face recognition (FR) problem under open-set prot
 where ideal face features are expected to have smaller maximal intra-class distance 
 than minimal inter-class distance under a suitably chosen met- ric space.
 <li> Softmax:  
+<li> L-Softmax:
+<li> Angular-Softmax:  
+<li> Cosine-Softmax:  
+<li>
+
+
+### Reference
+<li> https://github.com/clcarwin/sphereface_pytorch/blob/master/net_sphere.py  
+<li>
 
 
 
