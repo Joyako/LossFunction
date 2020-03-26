@@ -52,9 +52,11 @@ where,
 
 ### Reference
 <li> https://github.com/MuggleWang/CosFace_pytorch/blob/master/layer.py  
-<li>
-
-
-
-
+<li> ArcFace: Additive Angular Margin Loss for Deep Face Recognition
+<li> SphereFace: Deep Hypersphere Embedding for Face Recognition  
+<li> A Discriminative Feature Learning Approach for Deep Face Recognition  
+<li> CosFace: Large Margin Cosine Loss for Deep Face Recognition   
+<li> Large-Margin Softmax Loss for Convolutional Neural Networks
+<li> [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
+<li> MobileNet-v3
 
