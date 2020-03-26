@@ -58,6 +58,6 @@ where,
 <li> A Discriminative Feature Learning Approach for Deep Face Recognition  
 <li> CosFace: Large Margin Cosine Loss for Deep Face Recognition   
 <li> Large-Margin Softmax Loss for Convolutional Neural Networks
-<li> [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
+<li> EfficientNet
 <li> MobileNet-v3
 
